@@ -52,7 +52,7 @@
   </a>
 
   <!-- Phone -->
-   <a href="tel:+91 7904440475">
+   <a href="tel:+917904440475">
     <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" height="40" style="margin-right: 20px;" />
   </a>
 
