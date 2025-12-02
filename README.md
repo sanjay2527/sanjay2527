@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
----
+
 ## 📬 Contact Me
 
 <p align="left">
