@@ -1,14 +1,14 @@
   <h1 align="center">Hi 👋, I'm Sanjay A</h1>
-<h3 align="center">Backend Developer | Python & Django Specialist</h3>
+<h3 align="center">Frontend Developer | Python & Django Specialist</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 I’m a **Backend Developer** focused on building scalable and secure web applications  
-- 🌱 Currently improving my knowledge of **Advanced Django**, **REST APIs**, and **System Design**  
-- 🧩 I enjoy solving backend problems and writing clean, maintainable code  
-- 📫 Reach me at: svs28206@gmail.com
-
+- 💻 Frontend developer with hands-on experience in React, JavaScript, HTML, and CSS.              
+- 🌱 Expert in creating responsive, user-friendly interfaces using Bootstrap.
+- 🧩 Combines strong UI skills with Python knowledge for full-cycle development 
+- 📫 Focused on performance, scalability, and clean code.
+  
 ---
 
 ## 🛠️ Tech Stack
